@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/k_khalima" target="blank"><img src="https://img.shields.io/twitter/follow/k_khalima?logo=twitter&style=for-the-badge" alt="k_khalima" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, React Native , and Data Analysis**
+- 🌱 I’m currently learning **Flutter, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kmadaminjanova0508](https://github.com/kmadaminjanova0508)
 
